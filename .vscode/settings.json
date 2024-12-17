@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "./python/venv/bin/python",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.rulers": [88],
+    "python.testing.pytestEnabled": true
+
+}
